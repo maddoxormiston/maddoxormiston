@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a serior at St. Lawrence University.📚
+
+I am majoring in Statistics📊 and minoring in Public Health🩺 and Spanish.
+
+Fun fact: in my free time, I like to ski❄️🎿 and be outside🌞🌻.
+
 <!--
 **maddoxormiston/maddoxormiston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
